@@ -1,4 +1,8 @@
-# ![Sakura Ramen Logo](/assets/icons/sakura-logo-40px.png) Sakura Ramen
+<div align="center">      
+        
+# ![Sakura Ramen Logo](/assets/icons/sakura-logo-40px.png) Sakura Ramen ![Sakura Ramen Logo](/assets/icons/sakura-logo-40px.png)
+
+</div>
 
 <div align="center">
         
